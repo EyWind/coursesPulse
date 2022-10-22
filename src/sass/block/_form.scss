@@ -1,0 +1,22 @@
+.feed-form {
+   margin-top: 36px;
+   width: 300px;
+   input {
+      width: 100%;
+      background: #FFFFFF;
+      margin-bottom: 11px;
+      border-radius: 5px;
+      border: none;
+      height: 54px;
+      font-weight: 400;
+      font-size: 14px;
+      color: #4B4B4B;
+      padding: 0 20px;
+      &:last-of-type {
+         margin-bottom: 17px;
+      }
+   }
+   &_modal {
+      margin: 26px 0 0 15px;
+   }
+}
